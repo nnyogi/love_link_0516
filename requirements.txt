@@ -1,7 +1,7 @@
 streamlit
 streamlit_folium
 pandas
-keras.models
+keras
 numpy
 statsmodels
 matplotlib
