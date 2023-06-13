@@ -2,7 +2,8 @@ streamlit
 streamlit_folium
 pandas
 keras.models
-os, glob
+os
+
 numpy
 statsmodels.tsa.arima.model
 matplotlib.pyplot
