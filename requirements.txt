@@ -4,5 +4,5 @@ pandas
 keras.models
 numpy
 statsmodels
-matplotlib.pyplot
-plotly.express
+matplotlib
+plotly
